@@ -1,4 +1,4 @@
-# Sistem Pendukung Keputusan Pemilihan asdos
+# Sistem Pendukung Keputusan Pemilihan Asdos
 
 [![](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat&maxAge=86400)](https://www.instagram.com/reziq_vins/)
 [![](https://img.shields.io/badge/Find%20Me-%40ReziqVins-009688.svg?style=social)](https://www.instagram.com/reziq_vins/)
@@ -21,8 +21,7 @@
     ![](https://github.com/reziqvins/Sistem-Pendukung-Keputusan-Pemilihan-Asisten-Dosen-Metode-Topsis/blob/main/ss/4.png)
     ![](https://github.com/reziqvins/Sistem-Pendukung-Keputusan-Pemilihan-Asisten-Dosen-Metode-Topsis/blob/main/ss/5.png)
     
-   - ### Link Web
-    spkasistendosen.rf.gd
+  
     
     
     username    = admin
